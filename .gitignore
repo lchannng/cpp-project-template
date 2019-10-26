@@ -1,0 +1,9 @@
+build*/
+_build*
+_install
+*.dir
+Win32
+*.user
+3rd/deps
+.idea
+cmake-build*
